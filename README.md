@@ -120,5 +120,6 @@ For feedback or collaboration opportunities:
 
 - GitHub: [AbdullahRao25](https://github.com/AbdullahRao25)
 - Email: AbdullahKaimKhaani@gmail.com
+- Linkedin: https://www.linkedin.com/in/abdullah-kaim-khaani-4336b2362/
 
 ---
